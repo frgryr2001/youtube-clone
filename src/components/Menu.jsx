@@ -49,6 +49,9 @@ const Item = styled.div`
   gap: 20px;
   cursor: pointer;
   padding: 7.5px 0px;
+  &:hover {
+    background-color: ${({ theme }) => theme.soft};
+  }
 `;
 const Hr = styled.hr`
   margin: 15px 0px;
@@ -111,10 +114,12 @@ const Menu = ({ setTheme }) => {
         <Hr />
         <Login>
           <div>Sign in to like videos , comments and subscribe.</div>
-          <Button>
-            <AccountCircleOutlinedIcon />
-            Sign in
-          </Button>
+          <Link to="/signin" style={{ textDecoration: "none" }}>
+            <Button>
+              <AccountCircleOutlinedIcon />
+              Sign in
+            </Button>
+          </Link>
         </Login>
         <Hr />
         <Title>BEST OF REACTTUBE</Title>

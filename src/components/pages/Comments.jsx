@@ -24,7 +24,10 @@ const InputComment = styled.input`
   height: 15px;
   outline: none;
   padding: 5px;
-  color: ${({ theme }) => <theme className="textSoft"></theme>};
+  color: ${({ theme }) => theme.text};
+  :focus {
+    border-bottom: 1px solid ${({ theme }) => theme.text};
+  }
 `;
 const Comments = () => {
   return (

@@ -7,6 +7,7 @@ import ContentCutIcon from "@mui/icons-material/ContentCut";
 import PlaylistAddIcon from "@mui/icons-material/PlaylistAdd";
 import MoreHorizIcon from "@mui/icons-material/MoreHoriz";
 import Comments from "./Comments";
+import Card from "./Card";
 const Container = styled.div`
   display: flex;
   gap: 24px;
@@ -97,18 +98,20 @@ const TopComment = styled.span`
 `;
 
 const Video = () => {
+  const imageSrc =
+    "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9tKhyLzQIMaJ88gEuoX8izVfMA";
   return (
     <Container>
       <Content>
         <VideoWrapper>
           <iframe
             width="100%"
-            height="700"
+            height="600"
             src="https://www.youtube.com/embed/GspDybPhOeY"
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         </VideoWrapper>
         <Title>Lorem ipsum dolor sit amet consectetur adipisicing elit</Title>
@@ -160,7 +163,20 @@ const Video = () => {
 
         <Comments></Comments>
       </Content>
-      <Recommendation>Recommendation</Recommendation>
+      <Recommendation>
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+        <Card type="sm" imageSrc={imageSrc} />
+      </Recommendation>
     </Container>
   );
 };
