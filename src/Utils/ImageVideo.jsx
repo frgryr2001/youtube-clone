@@ -1,0 +1,18 @@
+export const images = [
+  "https://i.ytimg.com/vi/YsQ1AgOED88/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVn2XRZHpyeqV75dtEVc_Tsp036Q",
+  "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9tKhyLzQIMaJ88gEuoX8izVfMA",
+  "https://i.ytimg.com/vi/30sMCciFIAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRsLnUHUK_egzW9r1qKZPOJwhpsg",
+  "https://i.ytimg.com/vi/GspDybPhOeY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgkrau9Fn2tdz6rq3pKaBvkyicMw",
+  "https://i.ytimg.com/vi/XYVJKnZc0SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkXRpyQtOD3BKGX1v9umcCVcfdyQ",
+  "https://i.ytimg.com/vi/DUwx3IdXupU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVa1tkzJVsf4vQeWu1GJnZmT3X2Q",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+  "https://i.ytimg.com/vi/DYtYyFOfpBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFCSlY4FqNt-kM4u2_xO-jXjujA",
+];
